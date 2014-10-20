@@ -1,0 +1,4 @@
+[Project]
+Name=myrsync
+Manager=KDevCMakeManager
+VersionControl=kdevgit
